@@ -22,9 +22,9 @@ function brushTeeth(){
 }
 
 // call the function
-// brushTeeth();
-// console.log('------------')
-// console.log('------------')
-// console.log('------------')
-// console.log('tom tom ta to');
-// brushTeeth();
+brushTeeth();
+console.log('------------')
+console.log('------------')
+console.log('------------')
+console.log('tom tom ta to');
+brushTeeth();
