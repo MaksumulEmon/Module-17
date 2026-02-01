@@ -41,7 +41,7 @@ function numberOfElements(numbers){
 
 // numberOfElements([12, 45, 78,45,121254,4,5])
 
-// function getAge(person){
-//     const age = person.age;
-//     return age;
-// }
+function getAge(person){
+    const age = person.age;
+    return age;
+}
